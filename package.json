@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@angular/forms": "^19.2.14",
+    "@ionic/angular": "^8.5.8",
+    "@ionic/storage-angular": "^4.0.0",
+    "chart.js": "^4.4.9",
+    "ngx-chartjs": "^0.0.1"
+  }
+}
